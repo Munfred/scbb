@@ -36,7 +36,7 @@ The MBZUAI 2025 spring term runs from January 6 to April 30 (last day of classes
 - **Jan 20** - Lecture 3.1: Introduction to common assays: Imaging, sequencing and structural biology 
 - **Jan 22** - Lecture 3.2: Other assays 
 - **Jan 23** - Lab 3: Visualizing biology – cellular microscopy 
-- _PS2 released by Jan 23 (and PS1 due). PS2 Due Feb 6._
+- By Jan 23: PS2 released (and PS1 due). PS2 Due Feb 6.
 
   
 ### Week 4: Biological data representation 
@@ -50,6 +50,7 @@ The MBZUAI 2025 spring term runs from January 6 to April 30 (last day of classes
 - **Feb 3** - Lecture 1: Evolution of single cell omics technologies over the past 15 years and prospects of the field 
 - **Feb 5** - Lecture 2: The need for AI tools and methods 
 - **Feb 6** - Lab 5:  Exploring the evolution of the field and available datasets 
+- By Feb 6: PS3 released (and PS2 due). PS3 Due Feb 20.
 
 ### Week 6: Single cell RNA sequencing data pre-processing workflows 
 - **Feb 10** - Lecture 6.1: Retrieving datasets, pre-processing workflows to generate the gene count matrix 
@@ -60,7 +61,8 @@ The MBZUAI 2025 spring term runs from January 6 to April 30 (last day of classes
 **Note:** This week [Valentine Svensson](https://nxn.se/) may give a remote guest lecture
 - **Feb 17** - Lecture 7.1: Fundamental tasks in single cell data analysis, differential expression  
 - **Feb 19** - Lecture 7.2: Overview of scvi-tools and the scverse ecosystem 
-- **Feb 20** - Lab 7: Basic scRNAseq analysis tutorial with scvi-tools 
+- **Feb 20** - Lab 7: Basic scRNAseq analysis tutorial with scvi-tools
+- By Feb 20: PS4 released (and PS4 due). PS4 Due Mar 6. 
 
 ### Week 8: Single cell RNA sequencing data analysis workflows with scverse 
 - **Feb 24** - Lecture 8.1: Single cell omics foundation models, scvi-tools, creating new probabilistic models for single cell omics data 
@@ -72,7 +74,7 @@ The MBZUAI 2025 spring term runs from January 6 to April 30 (last day of classes
 - **Mar 3** - Lecture 9.1: Plotting and visualization tools 
 - **Mar 5** - Lecture 9.2: Biological interpretation tools, gene set enrichment analysis, pathway analysis  
 - **Mar 6** - Lab 9: Reproducing the analysis of a published paper  
-
+- By Mar 6: PS5 released (and PS4 due). PS5 Due Mar 20. 
 
 ### Week 10: Single cell omics analysis workflows 
 - **Mar 10** - Lecture 10.1: Biological data interpretation, searching the literature, tools that support iterative analysis 
@@ -83,7 +85,8 @@ The MBZUAI 2025 spring term runs from January 6 to April 30 (last day of classes
 ### Week 11: Spatial Transcriptomics  
 - **Mar 17** - Lecture 11.1: Introduction to spatial transcriptomics 
 - **Mar 19** - Lecture 11.2: Analysis tools for spatial transcriptomics 
-- **Mar 20** - Lab 11: Spatial transcriptomics in practice 
+- **Mar 20** - Lab 11: Spatial transcriptomics in practice
+- Midterm project proposals due. 
 
 ### Spring Break: March 24-28
 
