@@ -10,8 +10,12 @@ Lectures are on Mondays and Wednesdays 6:30PM UAE time, and labs 10:30AM UAE tim
 Both courses have a shared set of lectures, and different labs and evaluations. The lectures are open for online auditing, please reach out to eduardo.beltrame@mbzuai.ac.ae if you'd like to audit. The materials for the labs will be made available in this repository, but labs cannot be audited online. 
 
 ## Evaluation
-The evaluation for this course 
-attendance/quizzes, problem sets (PS), one take-home midterm exam
+The evaluation for this course will be comprised of:
+- (10%) Attendance/quizzes
+- (35%) Problem sets (PS), may be solved in groups but turned in individually
+- (10%) One take-home midterm exam (equivalent to a problem set, but must be solved alone)
+- (15%) One midterm project to be done in groups of 2-4 people, to be presented on April 3
+- (30%) One final project to be done in groups of 2-4 people (may be the same group as the midterm project, may expand on the same topic). To be presented on the weeks of April 21-30.
 
 ## Course schedule
 The weekly course schedule is below. Please note that this is the first time this course is being taught, and there might be adjustements to the schedule, content and activities depending on course pace and opportunity to host guest speakers for some lectures.
@@ -68,7 +72,7 @@ The MBZUAI 2025 spring term runs from January 6 to April 30 (last day of classes
 - **Feb 24** - Lecture 8.1: Single cell omics foundation models, scvi-tools, creating new probabilistic models for single cell omics data 
 - **Feb 26** - Lecture 8.2: The scverse ecosystem of single cell analysis tools 
 - **Feb 27** - Lab 8: Single cell analysis with scverse  
-
+- Midterm project proposals discussion this week. Midterm project presentations (10 min per group) on Apr 3. 
 
 ### Week 9: Single cell RNA sequencing data analysis workflows 
 - **Mar 3** - Lecture 9.1: Plotting and visualization tools 
@@ -79,27 +83,27 @@ The MBZUAI 2025 spring term runs from January 6 to April 30 (last day of classes
 ### Week 10: Single cell omics analysis workflows 
 - **Mar 10** - Lecture 10.1: Biological data interpretation, searching the literature, tools that support iterative analysis 
 - **Mar 12** - Lecture 10.2: Beyond RNA: Exploring other data modalities in single cell omics 
-- **Mar 13** - Lab 10: Single cell multi-omics analysis practice 
-
+- **Mar 13** - Lab 10: Single cell multi-omics analysis practice
+- Midterm project proposals discussion this week. Midterm project presentations (10 min) on Apr 3.  
 
 ### Week 11: Spatial Transcriptomics  
 - **Mar 17** - Lecture 11.1: Introduction to spatial transcriptomics 
 - **Mar 19** - Lecture 11.2: Analysis tools for spatial transcriptomics 
 - **Mar 20** - Lab 11: Spatial transcriptomics in practice
-- Midterm project proposals due. 
+- - Midterm project proposals discussion this week. Midterm project presentations (10 min) on Apr 3. 
 
 ### Spring Break: March 24-28
 
 ### Week 12: Asking biological questions, introduction to final project 
 - **Mar 31** - Lecture 12.1: Asking biological questions: what can we answer with the data? 
 - **Apr 2** - Lecture 12.2: Choosing analysis questions, finding data that can answer it  
-- **Apr 3** - LAB: Work on final projects : Choosing a biological system, data and analysis questions 
+- **Apr 3** - Midterm project presentations, discussions for final project: Choosing a biological system, data and analysis questions 
 
 
 ### Week 13: Foundation models & benchmarking
 - **Apr 7** - Lecture 13.1: Foundation models in single cell biology 
 - **Apr 9** - Lecture 13.2: Benchmarking methods: Open Problems in Single Cell Analysis 
-- **Apr 10** - Lab 13: Work on final projects 
+- **Apr 10** - Lab 13: Work on projects 
 
 
 ### Week 14: Single cell biological analysis in practice
