@@ -59,14 +59,14 @@ The MBZUAI 2025 spring term runs from January 6 to April 30 (last day of classes
 ### Week 6: Single cell RNA sequencing data pre-processing workflows 
 - **Feb 10** - Lecture 6.1: Retrieving datasets, pre-processing workflows to generate the gene count matrix 
 - **Feb 12** - Lecture 6.2: Data pre-processing deep dive; quality control of data 
-- **Feb 13** - LAb 6: Using kallisto | bustools to generate the gene count matrix 
+- **Feb 13** - Lab 6: Using kallisto | bustools to generate the gene count matrix 
 
 ### Week 7: Fundamental tasks and tools in single cell RNA sequencing data analysis  
 **Note:** This week [Valentine Svensson](https://nxn.se/) may give a remote guest lecture
 - **Feb 17** - Lecture 7.1: Fundamental tasks in single cell data analysis, differential expression  
 - **Feb 19** - Lecture 7.2: Overview of scvi-tools and the scverse ecosystem 
 - **Feb 20** - Lab 7: Basic scRNAseq analysis tutorial with scvi-tools
-- By Feb 20: PS4 released (and PS4 due). PS4 Due Mar 6. 
+- By Feb 20: PS4 released (and PS3 due). PS4 Due Mar 6. 
 
 ### Week 8: Single cell RNA sequencing data analysis workflows with scverse 
 - **Feb 24** - Lecture 8.1: Single cell omics foundation models, scvi-tools, creating new probabilistic models for single cell omics data 
@@ -90,14 +90,14 @@ The MBZUAI 2025 spring term runs from January 6 to April 30 (last day of classes
 - **Mar 17** - Lecture 11.1: Introduction to spatial transcriptomics 
 - **Mar 19** - Lecture 11.2: Analysis tools for spatial transcriptomics 
 - **Mar 20** - Lab 11: Spatial transcriptomics in practice
-- - Midterm project proposals discussion this week. Midterm project presentations (10 min) on Apr 3. 
+- Midterm project proposals discussion this week. Midterm project presentations (10 min) on Apr 3. 
 
 ### Spring Break: March 24-28
 
 ### Week 12: Asking biological questions, introduction to final project 
 - **Mar 31** - Lecture 12.1: Asking biological questions: what can we answer with the data? 
 - **Apr 2** - Lecture 12.2: Choosing analysis questions, finding data that can answer it  
-- **Apr 3** - Midterm project presentations, discussions for final project: Choosing a biological system, data and analysis questions 
+- **Apr 3** - Lab 12: Midterm project presentations, discussions for final project: Choosing a biological system, data and analysis questions 
 
 
 ### Week 13: Foundation models & benchmarking
