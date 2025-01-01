@@ -1,8 +1,6 @@
-# Single Cell Biology and Bioinformatics Course
-
-Working draft for upcoming course at [MBZUAI](https://mbzuai.ac.ae). 
-
 ## Materials of 2024-09-04 mini-workshop
+
+
 _Summary: Single cell technologies are a powerful new family of assays that can measure the contents thousands of individual cells from a biological sample in a single experiment at unprecedented scale and biological resolution, and are key to advancing precision medicine. In this introductory workshop we will learn the basics of molecular biology and use modern machine learning frameworks to explore real biological data from single cell RNA sequencing experiments. No prior biology knowledge is needed._
 
 - **Slides:** [Presentation on Canva](https://www.canva.com/design/DAGPhIyV-BQ/OqIOVjsJiXujcUoihBAfVw/view?utm_content=DAGPhIyV-BQ&utm_campaign=designshare&utm_medium=link&utm_source=editor) (39 slides). Covers the (very) basics of cell and molecular biology with overview of bioinformatics workflows. 
