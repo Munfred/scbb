@@ -5,9 +5,9 @@ This repository collects the course materials for two computational biology cour
 - **CB703**: Introduction to Single Cell Biology and Bioinformatics
 - **CB803**: Single Cell Biology and Bioinformatics
 
-Lectures are on Mondays and Wednesdays 6:30PM UAE time, and labs 10:30AM UAE time. 
+Lectures are on Mondays and Wednesdays 6:30PM UAE time, and labs Thursdays 10:30AM UAE time. 
 
-Both courses have a shared set of lectures, and different labs and evaluations. The lectures are open for online auditing, please reach out to eduardo.beltrame@mbzuai.ac.ae if you'd like to audit. The materials for the labs will be made available in this repository, but labs cannot be audited online. 
+Both courses have a shared set of lectures, and different labs and evaluations. The lectures are open for online auditing, please reach out to eduardo.beltrame@mbzuai.ac.ae if you'd like to audit. The materials for the labs will be made available in this repository, but labs cannot be audited online (if you are at MBZUAI and we have space you may audit the labs in person). 
 
 ## Evaluation
 The evaluation for this course will be comprised of:
