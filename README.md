@@ -9,7 +9,18 @@ Lectures are on Mondays and Wednesdays 6:30PM UAE time, and labs Thursdays 10:30
 
 Both courses have a shared set of lectures, and different labs and evaluations. The lectures are open for online auditing, please reach out to eduardo.beltrame@mbzuai.ac.ae if you'd like to audit. The materials for the labs will be made available in this repository, but labs cannot be audited online (if you are at MBZUAI and we have space you may audit the labs in person). 
 
-## Evaluation
+## Course references and preparation
+There is no textbook for single cell biology and bioinformatics. The materials for this course are necessarily a collection of miscellaneous resources, especially scientific articles and online resources. 
+
+For the initial weeks, as we cover essential biology concepts, we will recommend reading a few initial chapters of the textbook [Essential Cell Biology](https://wwnorton.com/books/9781324033356), by Bruce Alberts et al. This book is especially important for readers that are unfamiliar with biology, and we recommend reading chapters 1, 2, 4, 5, 7 and 8. 
+
+For the bioinformatics part of the course, we will focus on Python based tools. We will primarily work with the [scvi-tools](https://scvi-tools.org/) framework for probabilistic modelling for single cell omics, and with other tools that are part of the [scverse](https://scverse.org) ecosystem of Python based tools for single cell omics. It is important to be familiar with Python, GitHub, and using the command line. If you are unfamiliar with these or need some brushing up, we recommend the initial lectures of the [Caltech Bootcamp in Programming in the Biological Sciences](https://justinbois.github.io/bootcamp/2024/) by Justin Bois. 
+
+Most of the labs and computational practices of this course will be done using Python Jupyter notebooks, and we are designing the to be doable within the Google Colab notebooks, available at: [https://colab.research.google.com](https://colab.research.google.com/#). **If you are not familiar with Google Colab, we strongly recommend that you spend a while becoming familiar with it. Start with this notebook [Overview of Google Colaboratory Features](https://colab.research.google.com/notebooks/basic_features_overview.ipynb). You can watch this [4-min video explaining the Google Colab integrated AI assistant](https://www.youtube.com/watch?v=V7RXyqFUR98) that is very helpful.**
+
+ 
+
+## Evaluation (for enrolled students)
 The evaluation for this course will be comprised of:
 - (10%) Attendance/quizzes
 - (35%) Problem sets (PS), may be solved in groups but turned in individually
@@ -28,7 +39,17 @@ The MBZUAI 2025 spring term runs from January 6 to April 30 (last day of classes
 - **Jan 9** - Lab 1: Visualizing biology – molecular structures and the protein data bank
 - _PS 1 released by Jan 9. Due Jan 23._
   
+#### Required Reading
+- **(Lecture notes)** [A Conceptual Introduction to Single Cell RNA sequencing](https://github.com/Munfred/scbb/blob/main/introduction.pdf) 
+- **(One-page article)** [The importance of stupidity in scientific research (PDF)](https://journals.biologists.com/jcs/article/121/11/1771/30038/The-importance-of-stupidity-in-scientific-research), by Martin A. Schwartz. J Cell Sci 1 June 2008; 121 (11): 1771. DOI: [https://doi.org/10.1242/jcs.033340](https://doi.org/10.1242/jcs.033340)
 
+
+#### Recommended reading:** [Book: Essential Cell Biology](https://www.slideshare.net/slideshow/essential-cell-biology-5th/256499286#18). 
+Chapter 1 (Cells: The Fundamental Unit of Life), Chapter 2 (Chemical Components of Cells) 
+
+**Other interesting references**
+- **(Book)** The Blind Spot: Why Science Cannot Ignore Human Experience, by Adam Frank (astrophysicist), Marcelo Gleiser (theoreticla physicist), Evan Thompson (philosopher)
+Publisher: The MIT Press (March 5, 2024)
 
 ### Week 2: Fundamental concepts in biology, part II 
 **Note:** This week [Surya Narayanan Hari](https://scholar.google.com/citations?user=91W6K84AAAAJ&hl=en) will be visiting from Caltech and may give a guest lecture on Jan 15.
