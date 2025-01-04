@@ -48,8 +48,9 @@ The MBZUAI 2025 spring term runs from January 6 to April 30 (last day of classes
 Chapter 1 (Cells: The Fundamental Unit of Life), Chapter 2 (Chemical Components of Cells) 
 
 **Other interesting references**
-- **(Book)** The Blind Spot: Why Science Cannot Ignore Human Experience, by Adam Frank (astrophysicist), Marcelo Gleiser (theoreticla physicist), Evan Thompson (philosopher)
+- **(Book)** [The Blind Spot: Why Science Cannot Ignore Human Experience](https://mitpress.mit.edu/9780262553032/the-blind-spot/). By Adam Frank (astrophysicist), Marcelo Gleiser (theoreticla physicist), Evan Thompson (philosopher).
 Publisher: The MIT Press (March 5, 2024)
+- **(Verse)** [Tao Te Ching chapter 27](https://terebess.hu/english/tao/mitchell.html#Kap27), translated by Stephen Mitchell (1988)
 
 ### Week 2: Fundamental concepts in biology, part II 
 **Note:** This week [Surya Narayanan Hari](https://scholar.google.com/citations?user=91W6K84AAAAJ&hl=en) will be visiting from Caltech and may give a guest lecture on Jan 15.
