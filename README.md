@@ -44,8 +44,10 @@ The MBZUAI 2025 spring term runs from January 6 to April 30 (last day of classes
 - **(One-page article)** [The importance of stupidity in scientific research (PDF)](https://journals.biologists.com/jcs/article/121/11/1771/30038/The-importance-of-stupidity-in-scientific-research), by Martin A. Schwartz. J Cell Sci 1 June 2008; 121 (11): 1771. DOI: [https://doi.org/10.1242/jcs.033340](https://doi.org/10.1242/jcs.033340)
 
 
-#### Recommended reading:** [Book: Essential Cell Biology](https://www.slideshare.net/slideshow/essential-cell-biology-5th/256499286#18). 
-Chapter 1 (Cells: The Fundamental Unit of Life), Chapter 2 (Chemical Components of Cells) 
+#### Recommended reading:
+
+- **(Book)** [Essential Cell Biology](https://www.slideshare.net/slideshow/essential-cell-biology-5th/256499286#18). 
+Chapter 1 (Cells: The Fundamental Unit of Life) and Chapter 2 (Chemical Components of Cells) 
 
 **Other interesting references**
 - **(Book)** [The Blind Spot: Why Science Cannot Ignore Human Experience](https://mitpress.mit.edu/9780262553032/the-blind-spot/). By Adam Frank (astrophysicist), Marcelo Gleiser (theoreticla physicist), Evan Thompson (philosopher).
