@@ -47,7 +47,8 @@ The MBZUAI 2025 spring term runs from January 6 to April 30 (last day of classes
 #### Recommended reading:
 
 - **(Book)** [Essential Cell Biology](https://www.slideshare.net/slideshow/essential-cell-biology-5th/256499286#18). 
-Chapter 1 (Cells: The Fundamental Unit of Life) and Chapter 2 (Chemical Components of Cells) 
+Chapter 1 (Cells: The Fundamental Unit of Life) and Chapter 2 (Chemical Components of Cells)
+- **(Book)** [The Machinery of Life](https://archive.org/details/machineryoflife0066good/page/n9/mode/2up) Chapter 1 (Introduction), Chapter 2 (Molecular Machines) and Chapter 4 (Protein Structure and Function)
 
 **Other interesting references**
 - **(Book)** [The Blind Spot: Why Science Cannot Ignore Human Experience](https://mitpress.mit.edu/9780262553032/the-blind-spot/). By Adam Frank (astrophysicist), Marcelo Gleiser (theoreticla physicist), Evan Thompson (philosopher).
@@ -58,7 +59,15 @@ Publisher: The MIT Press (March 5, 2024)
 **Note:** This week [Surya Narayanan Hari](https://scholar.google.com/citations?user=91W6K84AAAAJ&hl=en) will be visiting from Caltech and may give a guest lecture on Jan 15.
 - **Jan 13**- Lecture 2.1: Recap: The cell organization, central dogma, building blocks of the cell 
 - **Jan 15** - Lecture 2.2: Other important processes and structures in the cell, some assays we can use to measure the cell 
-- **Jan 16** - Lab 2: Visualizing biology – cellular assemblies  
+- **Jan 16** - Lab 2: Visualizing biology – cellular assemblies
+
+
+#### Recommended reading:
+
+- **(Book)** [Essential Cell Biology](https://www.slideshare.net/slideshow/essential-cell-biology-5th/256499286#18). 
+Chapter 5 (DNA and Chromossomes), Chapter 3 (From DNA to Protein: How Cells Read the Genome) and Chapter 8 (Control of Gene Expression)
+- **(Book)** [The Machinery of Life](https://archive.org/details/machineryoflife0066good/page/n9/mode/2up) Chapter 3 (The Processes of Living) and Chapter 4 (Molecules in Cells: _Escherichia coli_ )
+
 
 ### Week 3: Biological assays and data generation 
 - **Jan 20** - Lecture 3.1: Introduction to common assays: Imaging, sequencing and structural biology 
