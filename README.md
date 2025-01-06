@@ -9,6 +9,13 @@ Lectures are on Mondays and Wednesdays 6:30PM UAE time, and labs Thursdays 10:30
 
 Both courses have a shared set of lectures, and different labs and evaluations. The lectures are open for online auditing, please reach out to eduardo.beltrame@mbzuai.ac.ae if you'd like to audit. The materials for the labs will be made available in this repository, but labs cannot be audited online (if you are at MBZUAI and we have space you may audit the labs in person). 
 
+## Piazza Forum
+
+For the Spring 2025 edition of the course we use Piazza for student discussion and announcements. 
+Please try to using Piazza instead of email for questions whenever possible. This way your colleagues learn from your questions and may also help you answering them. Piazza will also be very useful for the project discussion and development.
+
+Join the Piazza Forum here: [https://piazza.com/mbzuai.ac.ae/spring2025/mbzuaicb703cb803](https://piazza.com/mbzuai.ac.ae/spring2025/mbzuaicb703cb803)
+
 ## Course references and preparation
 There is no textbook for single cell biology and bioinformatics. The materials for this course are necessarily a collection of miscellaneous resources, especially scientific articles and online resources. 
 
