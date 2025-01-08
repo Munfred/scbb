@@ -12,7 +12,7 @@ Both courses have a shared set of lectures, and different labs and evaluations. 
 ## Piazza Forum and Zulip chat
 
 For the Spring 2025 edition of the course we use Piazza for student discussion and announcements. 
-Please try to using Piazza instead of email for questions whenever possible. This way your colleagues learn from your questions and may also help you answering them. Piazza will also be very useful for the project discussion and development. Join our Piazza Forum here: [https://piazza.com/mbzuai.ac.ae/spring2025/mbzuaicb703cb803](https://piazza.com/mbzuai.ac.ae/spring2025/mbzuaicb703cb803)
+Please try to using Piazza instead of email for questions whenever possible. This way your colleagues learn from your questions and may also help you answering them. Piazza will also be very useful for the project discussion and development. To join our Piazza Forum use the access code `scbb` and the sign up link here: [https://piazza.com/mbzuai.ac.ae/spring2025/mbzuaicb703cb803](https://piazza.com/mbzuai.ac.ae/spring2025/mbzuaicb703cb803)
 
 Aditionally, for chat conversations, we have created a channel in the scverse Zulip. scverse is the community of computational for single cell omics, which we will be utilizing for this class. Zulip is an online chat community similar to discourse and Slack, to which you can sign up using your email or GitHub account. Chats are visible to all members of the community that are signed in. This is a great opportunity to not only discuss with your class mates, but especially to be exposed to the [scverse.org](https://scverse.org/) community discussions. Join our class channel in the scverse Zulip here:
 
