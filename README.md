@@ -54,7 +54,8 @@ The central dogma of molecular biology. The building blocks of the cell: DNA, RN
 #### Required Reading
 - **(Lecture notes)** [A Conceptual Introduction to Single Cell RNA sequencing](https://github.com/Munfred/scbb/blob/main/introduction.pdf) 
 - **(One-page article)** [The importance of stupidity in scientific research (PDF)](https://journals.biologists.com/jcs/article/121/11/1771/30038/The-importance-of-stupidity-in-scientific-research), by Martin A. Schwartz. J Cell Sci 1 June 2008; 121 (11): 1771. DOI: [https://doi.org/10.1242/jcs.033340](https://doi.org/10.1242/jcs.033340)
-- **(7 video playlist, 12 min total)** [The central dogma of molecular biology]([https://www.youtube.com/watch?v=4Z4KwuUfh0A](https://www.youtube.com/watch?v=SMtWvDbfHLo&list=PLCF1EBB5E07F55383) 
+- **(7 video playlist, 12 min total)** [The central dogma of molecular biology](https://www.youtube.com/watch?v=SMtWvDbfHLo&list=PLCF1EBB5E07F55383)
+- **(Online resource)** [Molecular Machinery: A Tour of the Protein Data Bank](https://cdn.rcsb.org/pdb101/molecular-machinery/)
 
 
 #### Recommended reading:
@@ -62,7 +63,6 @@ The central dogma of molecular biology. The building blocks of the cell: DNA, RN
 - **(Book)** [Essential Cell Biology](https://www.slideshare.net/slideshow/essential-cell-biology-5th/256499286#18). 
 Chapter 1 (Cells: The Fundamental Unit of Life) and Chapter 2 (Chemical Components of Cells)
 - **(Book)** [The Machinery of Life](https://archive.org/details/machineryoflife0066good/page/n9/mode/2up) Chapter 1 (Introduction), Chapter 2 (Molecular Machines) and Chapter 4 (Protein Structure and Function)
-
 - **(5 min video)** [Physically accurate computational modelling of the dynamics of DNA and chromatin.](https://www.youtube.com/watch?v=4Z4KwuUfh0A)
 
 **Other interesting references**
