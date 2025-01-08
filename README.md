@@ -62,6 +62,8 @@ The central dogma of molecular biology. The building blocks of the cell: DNA, RN
 Chapter 1 (Cells: The Fundamental Unit of Life) and Chapter 2 (Chemical Components of Cells)
 - **(Book)** [The Machinery of Life](https://archive.org/details/machineryoflife0066good/page/n9/mode/2up) Chapter 1 (Introduction), Chapter 2 (Molecular Machines) and Chapter 4 (Protein Structure and Function)
 
+- **(5 min video)** [Physically accurate computational modelling of the dynamics of DNA and chromatin.](https://www.youtube.com/watch?v=4Z4KwuUfh0A)
+
 **Other interesting references**
 - **(Book)** [The Blind Spot: Why Science Cannot Ignore Human Experience](https://mitpress.mit.edu/9780262553032/the-blind-spot/). By Adam Frank (astrophysicist), Marcelo Gleiser (theoreticla physicist), Evan Thompson (philosopher).
 Publisher: The MIT Press (March 5, 2024)
