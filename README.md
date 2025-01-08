@@ -45,7 +45,7 @@ The weekly course schedule is below. Please note that this is the first time thi
 The MBZUAI 2025 spring term runs from January 6 to April 30 (last day of classes, finals in May), with a spring break on the week of March 24-28. 
 
 ### Week 1: Fundamental concepts in biology, part I 
-- **Jan 6** - Lecture 1.1: The cell organization and the central dogma 
+- **Jan 6** - Lecture 1.1 [https://www.canva.com/design/DAGa_5zCtmM/vBdBcWFtMPX7V5D-5e64ag/edit](slides): The cell organization and the central dogma.  
 - **Jan 8** - Lecture 1.2: Building blocks of the cell: DNA, RNA, protein, sugars, lipids, small molecules 
 - **Jan 9** - Lab 1: Visualizing biology – molecular structures and the protein data bank
 - _PS 1 released by Jan 9. Due Jan 23._
