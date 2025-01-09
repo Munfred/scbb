@@ -49,7 +49,7 @@ The central dogma of molecular biology. The building blocks of the cell: DNA, RN
 - **Jan 6** - [Lecture 1.1 slides](https://www.canva.com/design/DAGa_5zCtmM/fF-XIz95hKu27fkXsNhA_w/view?utm_content=DAGa_5zCtmM&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h266f373449). Introduction & fundamental concepts
 - **Jan 8** - [Lecture 1.2 slides](https://www.canva.com/design/DAGbJZIdru4/PcBN7aQNPI1upvQ_zwhJvA/view). The building blocks of the cell & the central dogma of molecular biology. 
 - **Jan 9** - [Lab 1 script](https://docs.google.com/document/d/e/2PACX-1vTeg-g3ItetECcGhzgj6SsduqoRhucW35Dkg4bZ5cbVozd9iI8RXrCR9XwWxaludJZ8Jw43Jgj4D2Ku/pub): Visualizing biology – molecular structures and the protein data bank
-- _PS 1 released by Jan 9. Due Jan 23._
+- [Problem set 1: Fundamental Concepts in Biology](https://docs.google.com/document/d/e/2PACX-1vRHXvVIQd_kJMzYTfzP2DVyYrM4szCojlpThSO4ybtLRtAqwHBhQHBamvDDz2YxUuytBU21PFeavRW6/pub) released on Jan 9. Due Jan 23._
   
 #### Required Reading
 - **(Lecture notes)** [A Conceptual Introduction to Single Cell RNA sequencing](https://github.com/Munfred/scbb/blob/main/introduction.pdf) 
