@@ -76,13 +76,24 @@ Publisher: The MIT Press (March 5, 2024)
 - **Jan 15** - Lecture 2.2: Other important processes and structures in the cell, some assays we can use to measure the cell 
 - **Jan 16** - Lab 2: Visualizing biology – cellular assemblies
 
+#### Required reading:
+
+- **(Book)** [Essential Cell Biology](https://www.slideshare.net/slideshow/essential-cell-biology-5th/256499286#18). 
+Chapter 3 (From DNA to Protein: How Cells Read the Genome) and Chapter 4 (Protein Structure and Function)
+
 
 #### Recommended reading:
 
 - **(Book)** [Essential Cell Biology](https://www.slideshare.net/slideshow/essential-cell-biology-5th/256499286#18). 
-Chapter 5 (DNA and Chromossomes), Chapter 3 (From DNA to Protein: How Cells Read the Genome) and Chapter 8 (Control of Gene Expression)
+Chapter 5 (DNA and Chromossomes), and Chapter 8 (Control of Gene Expression)
 - **(Book)** [The Machinery of Life](https://archive.org/details/machineryoflife0066good/page/n9/mode/2up) Chapter 3 (The Processes of Living) and Chapter 4 (Molecules in Cells: _Escherichia coli_ )
+  
+**Other interesting references**
 
+- **(News Article)** [‘Dark proteome’ survey reveals thousands of new human genes](https://www.science.org/content/article/dark-proteome-survey-reveals-thousands-new-human-genes), _Science, November 2024_
+- **(News Article)** [Launch of world’s most significant protein study set to usher in new understanding for medicine
+](https://www.ukbiobank.ac.uk/learn-more-about-uk-biobank/news/launch-of-world-s-most-significant-protein-study-set-to-usher-in-new-understanding-for-medicine), UK biobank, January 2025
+    - (Related 2 min video) [Protein Biomarker Detection with Olink Proteomics](https://www.youtube.com/watch?v=_3R2jLaBhV8), describing Olink technology being used by the new UK Biobank protein study 
 
 ### Week 3: Biological assays and data generation 
 - **Jan 20** - Lecture 3.1: Introduction to common assays: Imaging, sequencing and structural biology 
