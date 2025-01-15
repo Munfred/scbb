@@ -48,7 +48,7 @@ The MBZUAI 2025 spring term runs from January 6 to April 30 (last day of classes
 The central dogma of molecular biology. The building blocks of the cell: DNA, RNA, protein, sugars, lipids, small molecules.
 - **Jan 6** - [Lecture 1.1 slides](https://www.canva.com/design/DAGa_5zCtmM/fF-XIz95hKu27fkXsNhA_w/view?utm_content=DAGa_5zCtmM&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h266f373449). Introduction & fundamental concepts
 - **Jan 8** - [Lecture 1.2 slides](https://www.canva.com/design/DAGbJZIdru4/PcBN7aQNPI1upvQ_zwhJvA/view). The building blocks of the cell & the central dogma of molecular biology. 
-- **Jan 9** - [Lab 1 script](https://docs.google.com/document/d/e/2PACX-1vTeg-g3ItetECcGhzgj6SsduqoRhucW35Dkg4bZ5cbVozd9iI8RXrCR9XwWxaludJZ8Jw43Jgj4D2Ku/pub): Visualizing biology – molecular structures and the protein data bank
+- **Jan 9** - [Lab 1 activities](https://docs.google.com/document/d/e/2PACX-1vTeg-g3ItetECcGhzgj6SsduqoRhucW35Dkg4bZ5cbVozd9iI8RXrCR9XwWxaludJZ8Jw43Jgj4D2Ku/pub): Visualizing biology – molecular structures and the protein data bank
 - _[Problem set 1: Fundamental Concepts in Biology](https://docs.google.com/document/d/e/2PACX-1vRHXvVIQd_kJMzYTfzP2DVyYrM4szCojlpThSO4ybtLRtAqwHBhQHBamvDDz2YxUuytBU21PFeavRW6/pub). Released on Jan 9. Due Jan 23._
   
 #### Required Reading
@@ -74,7 +74,7 @@ Publisher: The MIT Press (March 5, 2024)
 **Note:** This week [Surya Narayanan Hari](https://scholar.google.com/citations?user=91W6K84AAAAJ&hl=en) will be visiting from Caltech and may give a guest lecture on Jan 15.
 - **Jan 13**- Lecture 2.1: Recap: The cell organization, central dogma, building blocks of the cell 
 - **Jan 15** - Lecture 2.2: Other important processes and structures in the cell, some assays we can use to measure the cell 
-- **Jan 16** - Lab 2: Visualizing biology – cellular assemblies
+- **Jan 16** - [Lab 2 activities](https://docs.google.com/document/d/e/2PACX-1vT3B2Pry-FVsZo_28-Pli47QeYycd_fBwyUMBeIAUcB3gfXUjSNMS5nRlmSTWCWQgvjRBHinmAj56on/pub): Visualizing biology - microscopy
 
 #### Required reading:
 
