@@ -72,8 +72,8 @@ Publisher: The MIT Press (March 5, 2024)
 
 ### Week 2: Fundamental concepts in biology, part II 
 **Note:** This week [Surya Narayanan Hari](https://scholar.google.com/citations?user=91W6K84AAAAJ&hl=en) will be visiting from Caltech and may give a guest lecture on Jan 15.
-- **Jan 13**- Lecture 2.1: Recap: The cell organization, central dogma, building blocks of the cell 
-- **Jan 15** - Lecture 2.2: Other important processes and structures in the cell, some assays we can use to measure the cell 
+- **Jan 13**- [Lecture 2.1](https://docs.google.com/document/d/e/2PACX-1vT3B2Pry-FVsZo_28-Pli47QeYycd_fBwyUMBeIAUcB3gfXUjSNMS5nRlmSTWCWQgvjRBHinmAj56on/pub): Measuring the cell: omics and sequencing
+- **Jan 15** - [Lecture 2.2 slides](https://docs.google.com/document/d/e/2PACX-1vT3B2Pry-FVsZo_28-Pli47QeYycd_fBwyUMBeIAUcB3gfXUjSNMS5nRlmSTWCWQgvjRBHinmAj56on/pub) Measuring the cell: Microscopy
 - **Jan 16** - [Lab 2 activities](https://docs.google.com/document/d/e/2PACX-1vT3B2Pry-FVsZo_28-Pli47QeYycd_fBwyUMBeIAUcB3gfXUjSNMS5nRlmSTWCWQgvjRBHinmAj56on/pub): Visualizing biology - microscopy
 
 #### Required reading:
