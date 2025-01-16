@@ -71,9 +71,9 @@ Publisher: The MIT Press (March 5, 2024)
 - **(Verse)** [Tao Te Ching chapter 27](https://terebess.hu/english/tao/mitchell.html#Kap27), translated by Stephen Mitchell (1988)
 
 ### Week 2: Fundamental concepts in biology, part II 
-**Note:** This week [Surya Narayanan Hari](https://scholar.google.com/citations?user=91W6K84AAAAJ&hl=en) will be visiting from Caltech and may give a guest lecture on Jan 15.
+**Note:** This week [Surya Narayanan Hari](https://www.canva.com/design/DAGb4iM5dzo/V1m8DzqCBNXqMAiXpUshzg/view?utm_content=DAGb4iM5dzo&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hf6449141cc) will be visiting from Caltech and may give a guest lecture on Jan 15.
 - **Jan 13**- [Lecture 2.1](https://docs.google.com/document/d/e/2PACX-1vT3B2Pry-FVsZo_28-Pli47QeYycd_fBwyUMBeIAUcB3gfXUjSNMS5nRlmSTWCWQgvjRBHinmAj56on/pub): Measuring the cell: omics and sequencing
-- **Jan 15** - [Lecture 2.2 slides](https://docs.google.com/document/d/e/2PACX-1vT3B2Pry-FVsZo_28-Pli47QeYycd_fBwyUMBeIAUcB3gfXUjSNMS5nRlmSTWCWQgvjRBHinmAj56on/pub) Measuring the cell: Microscopy
+- **Jan 15** - [Lecture 2.2 slides](https://www.canva.com/design/DAGcLQ-gWiY/WyuONA24M8igRjfQYXfpjA/view?utm_content=DAGcLQ-gWiY&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h4c140002b2) Measuring the cell: Microscopy
 - **Jan 16** - [Lab 2 activities](https://docs.google.com/document/d/e/2PACX-1vT3B2Pry-FVsZo_28-Pli47QeYycd_fBwyUMBeIAUcB3gfXUjSNMS5nRlmSTWCWQgvjRBHinmAj56on/pub): Visualizing biology - microscopy
 
 #### Required reading:
