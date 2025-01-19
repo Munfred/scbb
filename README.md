@@ -88,19 +88,34 @@ Chapter 3 (From DNA to Protein: How Cells Read the Genome) and Chapter 4 (Protei
 Chapter 5 (DNA and Chromossomes), and Chapter 8 (Control of Gene Expression)
 - **(Book)** [The Machinery of Life](https://archive.org/details/machineryoflife0066good/page/n9/mode/2up) Chapter 3 (The Processes of Living) and Chapter 4 (Molecules in Cells: _Escherichia coli_ )
   
+
+
+### Week 3: Biological assays and data generation 
+
+- **Jan 20** - Lecture 3.1: Introduction to common assays: Imaging, sequencing and structural biology 
+- **Jan 22** - Lecture 3.2: Other assays 
+- **Jan 23** - Lab 3: Visualizing biology – cellular microscopy 
+- By Jan 23: PS2 released (and PS1 due). PS2 Due Feb 6.
+
+
+#### Required reading:
+
+- **(Website)**[https://maayanlab.cloud/biojupies/](BioJupies): Automatically Generate RNA-seq Data Analysis Notebooks.
+- **(Website)**[https://rnaseq.uoregon.edu/](RNA-seqlopedia): Great website detailing the workflow for RNA-seq
+- **(Website)**[GEO: Gene Expression Omnibus](https://www.ncbi.nlm.nih.gov/geo/). The NIH genomics data repository.
+  
+#### Recommended reading:
+
+- **(Website)** [The Human Phenotype Project](https://www.pheno.ai/)
+- **(Documentation)** [The Human Phenotype Project knowledge base](https://knowledgebase.pheno.ai). It will be useful to get acquainted with the HPP TRE documentation for the coming weeks. 
+
+
 **Other interesting references**
 
 - **(News Article)** [‘Dark proteome’ survey reveals thousands of new human genes](https://www.science.org/content/article/dark-proteome-survey-reveals-thousands-new-human-genes), _Science, November 2024_
 - **(News Article)** [Launch of world’s most significant protein study set to usher in new understanding for medicine
 ](https://www.ukbiobank.ac.uk/learn-more-about-uk-biobank/news/launch-of-world-s-most-significant-protein-study-set-to-usher-in-new-understanding-for-medicine), UK biobank, January 2025
     - (Related 2 min video) [Protein Biomarker Detection with Olink Proteomics](https://www.youtube.com/watch?v=_3R2jLaBhV8), describing Olink technology being used by the new UK Biobank protein study 
-
-### Week 3: Biological assays and data generation 
-- **Jan 20** - Lecture 3.1: Introduction to common assays: Imaging, sequencing and structural biology 
-- **Jan 22** - Lecture 3.2: Other assays 
-- **Jan 23** - Lab 3: Visualizing biology – cellular microscopy 
-- By Jan 23: PS2 released (and PS1 due). PS2 Due Feb 6.
-
   
 ### Week 4: Biological data representation 
 - **Jan 27** - Lecture 4.1: Sequencing data, genomic data, transcriptomic data  
