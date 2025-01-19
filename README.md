@@ -100,9 +100,9 @@ Chapter 5 (DNA and Chromossomes), and Chapter 8 (Control of Gene Expression)
 
 #### Required reading:
 
-- **(Website)**[https://maayanlab.cloud/biojupies/](BioJupies): Automatically Generate RNA-seq Data Analysis Notebooks.
-- **(Website)**[https://rnaseq.uoregon.edu/](RNA-seqlopedia): Great website detailing the workflow for RNA-seq
-- **(Website)**[GEO: Gene Expression Omnibus](https://www.ncbi.nlm.nih.gov/geo/). The NIH genomics data repository.
+- **(Website)** [https://maayanlab.cloud/biojupies/](BioJupies): Automatically Generate RNA-seq Data Analysis Notebooks.
+- **(Website)** [https://rnaseq.uoregon.edu/](RNA-seqlopedia): Great website detailing the workflow for RNA-seq
+- **(Website)** [GEO: Gene Expression Omnibus](https://www.ncbi.nlm.nih.gov/geo/). The NIH genomics data repository.
   
 #### Recommended reading:
 
