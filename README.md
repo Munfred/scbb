@@ -73,7 +73,7 @@ Publisher: The MIT Press (March 5, 2024)
 ### Week 2: Fundamental concepts in biology, part II 
 **Note:** This week [Surya Narayanan Hari](https://www.canva.com/design/DAGb4iM5dzo/V1m8DzqCBNXqMAiXpUshzg/view?utm_content=DAGb4iM5dzo&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hf6449141cc) will be visiting from Caltech and may give a guest lecture on Jan 15.
 - **Jan 13**- [Lecture 2.1](https://docs.google.com/document/d/e/2PACX-1vT3B2Pry-FVsZo_28-Pli47QeYycd_fBwyUMBeIAUcB3gfXUjSNMS5nRlmSTWCWQgvjRBHinmAj56on/pub): Measuring the cell: omics and sequencing
-- **Jan 15** - [Lecture 2.2 slides](https://www.canva.com/design/DAGcLQ-gWiY/WyuONA24M8igRjfQYXfpjA/view?utm_content=DAGcLQ-gWiY&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h4c140002b2) Measuring the cell: Microscopy
+- **Jan 15** - [Lecture 2.2 slides](https://www.canva.com/design/DAGcLQ-gWiY/WyuONA24M8igRjfQYXfpjA/view?utm_content=DAGcLQ-gWiY&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h4c140002b2) Measuring the cell: Microscopy. Lecture by Luiz, with mini guest lecture by Surya at the end.
 - **Jan 16** - [Lab 2 activities](https://docs.google.com/document/d/e/2PACX-1vT3B2Pry-FVsZo_28-Pli47QeYycd_fBwyUMBeIAUcB3gfXUjSNMS5nRlmSTWCWQgvjRBHinmAj56on/pub): Visualizing biology - microscopy
 
 #### Required reading:
@@ -92,8 +92,8 @@ Chapter 5 (DNA and Chromossomes), and Chapter 8 (Control of Gene Expression)
 
 ### Week 3: Biological assays and data generation 
 
-- **Jan 20** - Lecture 3.1: Introduction to common assays: Imaging, sequencing and structural biology 
-- **Jan 22** - Lecture 3.2: Other assays 
+- **Jan 20** - [Lecture 3.1 slides](https://www.canva.com/design/DAGceoQCSNY/SSadSRKSP3u9rMdn5mCI2g/view?utm_content=DAGceoQCSNY&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h6b64977f1b): Transcriptomics & biomonitoring 
+- **Jan 22** - Lecture 3.2: Transcriptomics analyses
 - **Jan 23** - Lab 3: Visualizing biology – cellular microscopy 
 - By Jan 23: PS2 released (and PS1 due). PS2 Due Feb 6.
 
