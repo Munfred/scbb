@@ -99,13 +99,13 @@ Chapter 5 (DNA and Chromossomes), and Chapter 8 (Control of Gene Expression)
 
 
 #### Required reading:
+- **(Article)** [A Beginner’s Guide to Analysis of RNA Sequencing Data](/doi.org/10.1165/rcmb.2017-0430TR). Koch et al (2018). DOI: 10.1165/rcmb.2017-0430TR. This article covers all of the common analysis done with RNA-seq data, read it and do not worry if you do not understand everything. 
+- **(Website)** [RNA-seqlopedia](https://rnaseq.uoregon.edu/): Great website detailing the workflow for RNA-seq
 
-- **(Website - most important, make sure you read it)** [RNA-seqlopedia](https://rnaseq.uoregon.edu/): Great website detailing the workflow for RNA-seq
-- **(Website)** [BioJupies](https://maayanlab.cloud/biojupies/): Automatically Generate RNA-seq Data Analysis Notebooks.
-- **(Website)** [GEO: Gene Expression Omnibus](https://www.ncbi.nlm.nih.gov/geo/). The NIH genomics data repository.
-  
 #### Recommended reading:
 
+- **(Website)** [BioJupies](https://maayanlab.cloud/biojupies/): Automatically Generate RNA-seq Data Analysis Notebooks.
+- **(Website)** [GEO: Gene Expression Omnibus](https://www.ncbi.nlm.nih.gov/geo/). The NIH genomics data repository.
 - **(Website)** [The Human Phenotype Project](https://www.pheno.ai/)
 - **(Documentation)** [The Human Phenotype Project knowledge base](https://knowledgebase.pheno.ai). It will be useful to get acquainted with the HPP TRE documentation for the coming weeks. 
 
