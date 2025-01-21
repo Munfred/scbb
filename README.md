@@ -155,6 +155,7 @@ Chapter 5 (DNA and Chromossomes), and Chapter 8 (Control of Gene Expression)
 - By Mar 6: PS5 released (and PS4 due). PS5 Due Mar 20. 
 
 ### Week 10: Single cell omics analysis workflows 
+Note: on March 10 prof. Greg Gibson from Georgia Tech will give a lecture in our class.
 - **Mar 10** - Lecture 10.1: Biological data interpretation, searching the literature, tools that support iterative analysis 
 - **Mar 12** - Lecture 10.2: Beyond RNA: Exploring other data modalities in single cell omics 
 - **Mar 13** - Lab 10: Single cell multi-omics analysis practice
