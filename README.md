@@ -94,7 +94,7 @@ Chapter 5 (DNA and Chromossomes), and Chapter 8 (Control of Gene Expression)
 
 - **Jan 20** - [Lecture 3.1 slides](https://www.canva.com/design/DAGceoQCSNY/SSadSRKSP3u9rMdn5mCI2g/view?utm_content=DAGceoQCSNY&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h6b64977f1b): Transcriptomics & biomonitoring 
 - **Jan 22** - [Lecture 3.2 slides](https://www.canva.com/design/DAGc0s3VBjU/aFxyEhv51ou-gwDfRp6oOg/view?utm_content=DAGc0s3VBjU&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h1ba25c6782): Transcriptomics analyses
-- **Jan 23** - [Lab 3 script](https://docs.google.com/document/d/e/2PACX-1vQNP42W709NxCyevLc2E3THjF7K0m3m0Fcj3DcMpGH5c_BMYk8ZZGHQM8Ge-vwTrGT-Z1kyC9iwh8J3/pub?embedded=tru): Bulk RNA-seq analysis with Biojupies, String and Cytoscape
+- **Jan 23** - [Lab 3 script](https://docs.google.com/document/d/e/2PACX-1vQNP42W709NxCyevLc2E3THjF7K0m3m0Fcj3DcMpGH5c_BMYk8ZZGHQM8Ge-vwTrGT-Z1kyC9iwh8J3/pub?embedded=true): Bulk RNA-seq analysis with Biojupies, String and Cytoscape
 - By Jan 23: PS2 released (and PS1 due). PS2 Due Feb 6.
 - [Problem set 2: Transcriptomics & bulk RNA-seq analysis](https://docs.google.com/document/d/e/2PACX-1vRpvr9ytHVpfqyVX-iTs_f71BehHi4wQAjs5Zv5SxTqdRwJjNyobXyflN6Sa4ltLlc1rQ_zMgXJ_lBE/pub?embedded=true)
 
