@@ -119,16 +119,16 @@ Chapter 5 (DNA and Chromossomes), and Chapter 8 (Control of Gene Expression)
     - (Related 2 min video) [Protein Biomarker Detection with Olink Proteomics](https://www.youtube.com/watch?v=_3R2jLaBhV8), describing Olink technology being used by the new UK Biobank protein study 
   
 ### Week 4: Biological data representation 
-- **Jan 27** - Lecture 4.1: Sequencing data, genomic data, transcriptomic data  
-- **Jan 29** - Lecture 4.2: Alignment workflows 
-- **Jan 30** - Lab 4: Navigating biological data repositories, alignment workflows
+- **Jan 27** - Lecture 4.1: Single cell RNA sequencing data, alignment workflows, processing steps  
+- **Jan 29** - Lecture 4.2: Processing single cell RNA sequencing data with [scvi-tools]
+- **Jan 30** - Lab 4: Pre-processing scRNAseq data with kallisto | bustools and analsysis with scvi-tools
 
 
 ### Week 5: Overview of single cell omics technologies 
-**Note:** This week [Justin Hong](https://www.justinhong.me/) will be visiting from Columbia University and may give a guest lecture on Feb 5.
-- **Feb 3** - Lecture 1: Evolution of single cell omics technologies over the past 15 years and prospects of the field 
-- **Feb 5** - Lecture 2: The need for AI tools and methods 
-- **Feb 6** - Lab 5:  Exploring the evolution of the field and available datasets 
+**Note:** This week [Justin Hong](https://www.justinhong.me/) will be visiting from Columbia University and may give a guest lecture on Feb 3/5.
+- **Feb 3** - Lecture 5.1: Single cell omics processing with scvi-tools + Guest lecture by Justin Hong
+- **Feb 5** - Lecture 5.2:  Single cell omics processing with scvi-tools + Guest lecture by Justin Hong
+- **Feb 6** - Lab 5:  Method development with scvi-tools
 - By Feb 6: PS3 released (and PS2 due). PS3 Due Feb 20.
 
 ### Week 6: Single cell RNA sequencing data pre-processing workflows 
