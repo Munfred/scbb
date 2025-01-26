@@ -136,22 +136,22 @@ Chapter 5 (DNA and Chromossomes), and Chapter 8 (Control of Gene Expression)
 - **(Nature Article Collection)** [Science and the new age of AI](https://www.nature.com/immersive/d41586-023-03017-2/index.html)
 
 ### Week 5: Overview of single cell omics technologies 
-**Note:** This week [Justin Hong](https://www.justinhong.me/) will be visiting from Columbia University and may give a guest lecture on Feb 3/5.
-- **Feb 3** - Lecture 5.1: Single cell omics processing with scvi-tools + Guest lecture by Justin Hong
-- **Feb 5** - Lecture 5.2:  Single cell omics processing with scvi-tools + Guest lecture by Justin Hong
-- **Feb 6** - Lab 5:  Method development with scvi-tools
+**Note:** This week [Justin Hong](https://www.justinhong.me/) will be visiting from Columbia University and may give a guest lecture on Feb 3/5. [Aly Azeem Khan](https://people.cs.uchicago.edu/~aakhan/) will be visiting from the University of Chicago on February 5.
+- **Feb 3** - Lecture 5.1: Probabilistic modelling of single cell omics data with scvi-tools - Guest lecture by Justin Hong
+- **Feb 5** - Lecture 5.2:  Guest lecture by Justin Hong (continued, if needed). Visit from Aly Azeem Khan. 
+- **Feb 6** - Lab 5:  Method development with scvi-tools, creating new probabilistic models for single cell omics data 
 - By Feb 6: PS3 released (and PS2 due). PS3 Due Feb 20.
 
 ### Week 6: Single cell RNA sequencing data pre-processing workflows 
-- **Feb 10** - Lecture 6.1: Retrieving datasets, pre-processing workflows to generate the gene count matrix 
-- **Feb 12** - Lecture 6.2: Data pre-processing deep dive; quality control of data 
-- **Feb 13** - Lab 6: Using kallisto | bustools to generate the gene count matrix 
+- **Feb 10** - Lecture 6.1: Finding single cell omics datasets, pre-processing workflows to generate the gene count matrix 
+- **Feb 12** - Lecture 6.2: The Human Phenotype Project data deep dive, guest lecture by Alvaro Maria Cabrera Berobide (MBZUAI masters student working on the HPP).
+- **Feb 13** - Lab 6: Using the HPP TRE 
 
 ### Week 7: Fundamental tasks and tools in single cell RNA sequencing data analysis  
-**Note:** This week [Valentine Svensson](https://nxn.se/) may give a remote guest lecture
+**Note:** This week [Valentine Svensson](https://nxn.se/) will give a lecture on differential expression on February 19.
 - **Feb 17** - Lecture 7.1: Fundamental tasks in single cell data analysis, differential expression  
-- **Feb 19** - Lecture 7.2: Overview of scvi-tools and the scverse ecosystem 
-- **Feb 20** - Lab 7: Basic scRNAseq analysis tutorial with scvi-tools
+- **Feb 19** - Lecture 7.2: Guest lecture by Valentine Svensson on differential expression.
+- **Feb 20** - Lab 7: Reproducing a published scRNAseq analysis
 - By Feb 20: PS4 released (and PS3 due). PS4 Due Mar 6. 
 
 ### Week 8: Single cell RNA sequencing data analysis workflows with scverse 
@@ -168,8 +168,8 @@ Chapter 5 (DNA and Chromossomes), and Chapter 8 (Control of Gene Expression)
 
 ### Week 10: Single cell omics analysis workflows 
 Note: on March 10 prof. Greg Gibson from Georgia Tech will give a lecture in our class.
-- **Mar 10** - Lecture 10.1: Biological data interpretation, searching the literature, tools that support iterative analysis 
-- **Mar 12** - Lecture 10.2: Beyond RNA: Exploring other data modalities in single cell omics 
+- **Mar 10** - Lecture 10.1: Guest Lecture by Greg Gibson
+- **Mar 12** - Lecture 10.2: Biological data interpretation, searching the literature, tools that support iterative analysis 
 - **Mar 13** - Lab 10: Single cell multi-omics analysis practice
 - Midterm project proposals discussion this week. Midterm project presentations (10 min) on Apr 3.  
 
