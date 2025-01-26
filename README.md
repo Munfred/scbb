@@ -125,7 +125,8 @@ Chapter 5 (DNA and Chromossomes), and Chapter 8 (Control of Gene Expression)
 - 
 
 #### Required reading:
-- **(Nature News Feature Article)** [Is AI leading to a reproducibility crisis in science?](https://www.nature.com/articles/d41586-023-03817-6) ([PDF](https://github.com/user-attachments/files/18549658/Is.AI.leading.to.a.reproducibility.crisis.in.science.pdf))
+- **(Nature News Feature Article, 4 pages)** [Is AI leading to a reproducibility crisis in science?](https://www.nature.com/articles/d41586-023-03817-6) ([PDF](https://github.com/user-attachments/files/18549658/Is.AI.leading.to.a.reproducibility.crisis.in.science.pdf))
+- **(Nature Comment Article, 4 pages)** [Garbage in, garbage out- mitigating risks and maximizing benefits of AI in research.pdf](https://github.com/user-attachments/files/18549669/Garbage.in.garbage.out-.mitigating.risks.and.maximizing.benefits.of.AI.in.research.pdf)
 
 #### Recommended reading:
 
