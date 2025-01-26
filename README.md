@@ -127,6 +127,10 @@ Chapter 5 (DNA and Chromossomes), and Chapter 8 (Control of Gene Expression)
 #### Required reading:
 - **(Nature News Feature Article)** [Is AI leading to a reproducibility crisis in science?](https://www.nature.com/articles/d41586-023-03817-6) ([PDF](https://github.com/user-attachments/files/18549658/Is.AI.leading.to.a.reproducibility.crisis.in.science.pdf))
 
+#### Recommended reading:
+
+- **(Nature Article Collection)** [Science and the new age of AI](https://www.nature.com/immersive/d41586-023-03017-2/index.html)
+
 ### Week 5: Overview of single cell omics technologies 
 **Note:** This week [Justin Hong](https://www.justinhong.me/) will be visiting from Columbia University and may give a guest lecture on Feb 3/5.
 - **Feb 3** - Lecture 5.1: Single cell omics processing with scvi-tools + Guest lecture by Justin Hong
