@@ -122,7 +122,10 @@ Chapter 5 (DNA and Chromossomes), and Chapter 8 (Control of Gene Expression)
 - **Jan 27** - Lecture 4.1: Single cell RNA sequencing data, alignment workflows, processing steps  
 - **Jan 29** - Lecture 4.2: Processing single cell RNA sequencing data with [scvi-tools]
 - **Jan 30** - Lab 4: Pre-processing scRNAseq data with kallisto | bustools and analsysis with scvi-tools
+- 
 
+#### Required reading:
+- **(Nature News Feature Article)** [Is AI leading to a reproducibility crisis in science?](https://www.nature.com/articles/d41586-023-03817-6) ([PDF](https://github.com/user-attachments/files/18549658/Is.AI.leading.to.a.reproducibility.crisis.in.science.pdf))
 
 ### Week 5: Overview of single cell omics technologies 
 **Note:** This week [Justin Hong](https://www.justinhong.me/) will be visiting from Columbia University and may give a guest lecture on Feb 3/5.
