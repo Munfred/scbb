@@ -125,8 +125,8 @@ Chapter 5 (DNA and Chromossomes), and Chapter 8 (Control of Gene Expression)
 - 
 
 #### Required reading:
+- **(10 min video)** [2017 Presentation by Romain Lopez on the scVI model](https://www.youtube.com/watch?v=NlpqwjQ91Sc)
 - **(Nature News Feature Article, 4 pages)** [Is AI leading to a reproducibility crisis in science?](https://www.nature.com/articles/d41586-023-03817-6) ([PDF](https://github.com/user-attachments/files/18549658/Is.AI.leading.to.a.reproducibility.crisis.in.science.pdf))
-
 
 - **(Nature News Feature Article)** [AI is complicating plagiarism. How should scientists respond?](https://www.nature.com/articles/d41586-024-02371-z)
 
