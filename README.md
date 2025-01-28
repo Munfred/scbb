@@ -119,10 +119,10 @@ Chapter 5 (DNA and Chromossomes), and Chapter 8 (Control of Gene Expression)
     - (Related 2 min video) [Protein Biomarker Detection with Olink Proteomics](https://www.youtube.com/watch?v=_3R2jLaBhV8), describing Olink technology being used by the new UK Biobank protein study 
   
 ### Week 4: Biological data representation 
-- **Jan 27** - Lecture 4.1: Single cell RNA sequencing data, alignment workflows, processing steps  
-- **Jan 29** - Lecture 4.2: Processing single cell RNA sequencing data with [scvi-tools]
-- **Jan 30** - Lab 4: Pre-processing scRNAseq data with kallisto | bustools and analsysis with scvi-tools
-- 
+- **Jan 27** - [Lecture 4.1 slides](https://www.canva.com/design/DAGdSBmBQhw/cz6wwie444ngUwLa_EXNNA/view?utm_content=DAGdSBmBQhw&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h5de7c88b8b): Single cell RNA sequencing data, alignment workflows, processing steps  
+- **Jan 29** - [Lecture 4.2 slides](https://www.canva.com/design/DAGdgjg3AM0/jvCGleYyvQhcDnwDNmFURQ/view?utm_content=DAGdgjg3AM0&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h27fee3c536): Processing single cell RNA sequencing data with [scvi-tools](https://scvi-tools)
+- **Jan 30** - [Lab 4 activities]:(https://docs.google.com/document/d/e/2PACX-1vQ6eK7qLpoaSv9GdxQyb8QfFVk7JWZJhUCbhGvyXOWA_YMO9pGW3xVtud4uHEEkH5JqS3dG7m4caWBV/pub) Processing single cell RNA sequencing data with [scvi-tools](https://scvi-tools)
+ 
 
 #### Required reading:
 - **(10 min video)** [2017 Presentation by Romain Lopez on the scVI model](https://www.youtube.com/watch?v=NlpqwjQ91Sc)
@@ -139,7 +139,7 @@ Chapter 5 (DNA and Chromossomes), and Chapter 8 (Control of Gene Expression)
 **Note:** This week [Justin Hong](https://www.justinhong.me/) will be visiting from Columbia University and may give a guest lecture on Feb 3/5. [Aly Azeem Khan](https://people.cs.uchicago.edu/~aakhan/) will be visiting from the University of Chicago on February 5.
 - **Feb 3** - Lecture 5.1: Probabilistic modelling of single cell omics data with scvi-tools - Guest lecture by Justin Hong
 - **Feb 5** - Lecture 5.2:  Guest lecture by Justin Hong (continued, if needed). Visit from Aly Azeem Khan. 
-- **Feb 6** - Lab 5:  Method development with scvi-tools, creating new probabilistic models for single cell omics data 
+- **Feb 6** - [Lab 5 activities](https://docs.google.com/document/d/e/2PACX-1vT0SKxgZYug8wlzbKppC-RYpawQBzzb0I6lj9EijGIKcpSCRYBhdSrs0KybXFFiKLA5YeQ1loLNz-Fh/pub):  Method development with scvi-tools, creating new probabilistic models for single cell omics data 
 - By Feb 6: PS3 released (and PS2 due). PS3 Due Feb 20.
 
 ### Week 6: Single cell RNA sequencing data pre-processing workflows 
