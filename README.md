@@ -121,7 +121,7 @@ Chapter 5 (DNA and Chromossomes), and Chapter 8 (Control of Gene Expression)
 ### Week 4: Biological data representation 
 - **Jan 27** - [Lecture 4.1 slides](https://www.canva.com/design/DAGdSBmBQhw/cz6wwie444ngUwLa_EXNNA/view?utm_content=DAGdSBmBQhw&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h5de7c88b8b): Single cell RNA sequencing data, alignment workflows, processing steps  
 - **Jan 29** - [Lecture 4.2 slides](https://www.canva.com/design/DAGdgjg3AM0/jvCGleYyvQhcDnwDNmFURQ/view?utm_content=DAGdgjg3AM0&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h27fee3c536): Processing single cell RNA sequencing data with [scvi-tools](https://scvi-tools)
-- **Jan 30** - [Lab 4 activities]:(https://docs.google.com/document/d/e/2PACX-1vQ6eK7qLpoaSv9GdxQyb8QfFVk7JWZJhUCbhGvyXOWA_YMO9pGW3xVtud4uHEEkH5JqS3dG7m4caWBV/pub) Processing single cell RNA sequencing data with [scvi-tools](https://scvi-tools)
+- **Jan 30** - [Lab 4 activities](https://docs.google.com/document/d/e/2PACX-1vQ6eK7qLpoaSv9GdxQyb8QfFVk7JWZJhUCbhGvyXOWA_YMO9pGW3xVtud4uHEEkH5JqS3dG7m4caWBV/pub): Processing single cell RNA sequencing data with [scvi-tools](https://scvi-tools)
  
 
 #### Required reading:
