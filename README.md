@@ -144,12 +144,12 @@ Chapter 5 (DNA and Chromossomes), and Chapter 8 (Control of Gene Expression)
 
 ### Week 6: Single cell RNA sequencing data pre-processing workflows 
 - **Feb 10** - Lecture 6.1: Finding single cell omics datasets, pre-processing workflows to generate the gene count matrix 
-- **Feb 12** - Lecture 6.2: The Human Phenotype Project data deep dive, guest lecture by Alvaro Maria Cabrera Berobide (MBZUAI masters student working on the HPP).
+- **Feb 12** - Lecture 6.2 (by Álvaro):  The Human Phenotype Project data deep dive, guest lecture by Alvaro Maria Cabrera Berobide (MBZUAI masters student working on the HPP).
 - **Feb 13** - Lab 6: Using the HPP TRE 
 
 ### Week 7: Fundamental tasks and tools in single cell RNA sequencing data analysis  
-**Note:** This week [Valentine Svensson](https://nxn.se/) will give a lecture on differential expression on February 19.
-- **Feb 17** - Lecture 7.1: Fundamental tasks in single cell data analysis, differential expression  
+**Note:** This week [Valentine Svensson](https://nxn.se/) will give a lecture on differential expression on February 19 and prof. [Natasa Przulj](https://mbzuai.ac.ae/study/faculty/natasa-przulj/) will give a lecture on Feb 17. 
+- **Feb 17** - Lecture 7.1: Guest lecture by prof. Natasa Przulj
 - **Feb 19** - Lecture 7.2: Guest lecture by Valentine Svensson on differential expression.
 - **Feb 20** - Lab 7: Reproducing a published scRNAseq analysis
 - By Feb 20: PS4 released (and PS3 due). PS4 Due Mar 6. 
@@ -167,7 +167,7 @@ Chapter 5 (DNA and Chromossomes), and Chapter 8 (Control of Gene Expression)
 - By Mar 6: PS5 released (and PS4 due). PS5 Due Mar 20. 
 
 ### Week 10: Single cell omics analysis workflows 
-Note: on March 10 prof. Greg Gibson from Georgia Tech will give a lecture in our class.
+Note: on March 10 prof. [Greg Gibson](https://scholar.google.com/citations?user=e4_ZXcwAAAAJ&hl=en) from Georgia Tech will give a lecture in our class.
 - **Mar 10** - Lecture 10.1: Guest Lecture by Greg Gibson
 - **Mar 12** - Lecture 10.2: Biological data interpretation, searching the literature, tools that support iterative analysis 
 - **Mar 13** - Lab 10: Single cell multi-omics analysis practice
