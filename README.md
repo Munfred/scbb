@@ -140,7 +140,7 @@ Chapter 5 (DNA and Chromossomes), and Chapter 8 (Control of Gene Expression)
 - **Feb 3** - Lecture 5.1: Probabilistic modelling of single cell omics data with scvi-tools - Guest lecture by Justin Hong
 - **Feb 5** - Lecture 5.2:  Guest lecture by Justin Hong (continued, if needed). Visit from Aly Azeem Khan. 
 - **Feb 6** - [Lab 5 activities](https://docs.google.com/document/d/e/2PACX-1vT0SKxgZYug8wlzbKppC-RYpawQBzzb0I6lj9EijGIKcpSCRYBhdSrs0KybXFFiKLA5YeQ1loLNz-Fh/pub):  Method development with scvi-tools, creating new probabilistic models for single cell omics data 
-- By Feb 6: PS3 released (and PS2 due). PS3 Due Feb 20.
+- By Feb 11: PS3 released (and PS2 due). PS3 Due Feb 23.
 
 ### Week 6: Single cell RNA sequencing data pre-processing workflows 
 - **Feb 10** - Lecture 6.1: Finding single cell omics datasets, pre-processing workflows to generate the gene count matrix 
