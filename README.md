@@ -142,11 +142,16 @@ Chapter 5 (DNA and Chromossomes), and Chapter 8 (Control of Gene Expression)
 - **Feb 6** - [Lab 5 activities](https://docs.google.com/document/d/e/2PACX-1vT0SKxgZYug8wlzbKppC-RYpawQBzzb0I6lj9EijGIKcpSCRYBhdSrs0KybXFFiKLA5YeQ1loLNz-Fh/pub):  Method development with scvi-tools, creating new probabilistic models for single cell omics data 
 - By Feb 11: PS3 released (and PS2 due). PS3 Due Feb 23.
 
-### Week 6: Single cell RNA sequencing data pre-processing workflows 
+### Week 6: Single cell RNA sequencing data pre-processing | The Human Phenotype Project (HPP)
 - **Feb 10** - Lecture 6.1: Finding single cell omics datasets, pre-processing workflows to generate the gene count matrix 
-- **Feb 12** - Lecture 6.2 (by Álvaro):  The Human Phenotype Project data deep dive, guest lecture by Alvaro Maria Cabrera Berobide (MBZUAI masters student working on the HPP).
-- **Feb 13** - Lab 6: Using the HPP TRE 
+- **Feb 12** - Lecture 6.2: The Human Phenotype Project data deep dive, guest lecture by Alvaro Maria Cabrera Berobide (MBZUAI masters student working on the HPP).
+- **Feb 13** - Lab 6: Using the HPP Trusted Research Environment
 
+#### Required reading:
+- **(HPP data catalogue)** [https://humanphenotypeproject.org/data-access](https://humanphenotypeproject.org/data-access)
+- **(HPP knowledge base)** [https://knowledgebase.pheno.ai/](https://knowledgebase.pheno.ai/)
+- **(Guide on using the HPP TRE)**
+  
 ### Week 7: Fundamental tasks and tools in single cell RNA sequencing data analysis  
 **Note:** This week [Valentine Svensson](https://nxn.se/) will give a lecture on differential expression on February 19 and prof. [Natasa Przulj](https://mbzuai.ac.ae/study/faculty/natasa-przulj/) will give a lecture on Feb 17. 
 - **Feb 17** - Lecture 7.1: Guest lecture by prof. Natasa Przulj
