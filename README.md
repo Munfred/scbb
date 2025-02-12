@@ -140,7 +140,7 @@ Chapter 5 (DNA and Chromossomes), and Chapter 8 (Control of Gene Expression)
 - **Feb 3** - Lecture 5.1: Probabilistic modelling of single cell omics data with scvi-tools - Guest lecture by Justin Hong
 - **Feb 5** - Lecture 5.2:  Guest lecture by Justin Hong (continued, if needed). Visit from Aly Azeem Khan. 
 - **Feb 6** - [Lab 5 activities](https://docs.google.com/document/d/e/2PACX-1vT0SKxgZYug8wlzbKppC-RYpawQBzzb0I6lj9EijGIKcpSCRYBhdSrs0KybXFFiKLA5YeQ1loLNz-Fh/pub):  Method development with scvi-tools, creating new probabilistic models for single cell omics data 
-- **(Problem set 3: Single cell omics, alignment and data pre-processing)[https://docs.google.com/document/d/e/2PACX-1vR2UYOq1uETbcvkkvZlX068r_uoOWQEWZm6NO1aPdpe_DXCq7YInBU7Uq33entezy9vGsg9RUYNV9fn/pub?embedded=true]** PS3 Due Feb 27.
+- **[Problem set 3: Single cell omics, alignment and data pre-processing](https://docs.google.com/document/d/e/2PACX-1vR2UYOq1uETbcvkkvZlX068r_uoOWQEWZm6NO1aPdpe_DXCq7YInBU7Uq33entezy9vGsg9RUYNV9fn/pub?embedded=true)** PS3 Due Feb 27.
 
 ### Week 6: Single cell RNA sequencing data pre-processing | The Human Phenotype Project (HPP)
 - **Feb 10** - Lecture 6.1: Finding single cell omics datasets, pre-processing workflows to generate the gene count matrix 
