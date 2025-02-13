@@ -146,7 +146,7 @@ Chapter 5 (DNA and Chromossomes), and Chapter 8 (Control of Gene Expression)
 - **Feb 10** - Lecture 6.1: Finding single cell omics datasets, pre-processing workflows to generate the gene count matrix 
 - **Feb 12** - Lecture 6.2: The Human Phenotype Project data deep dive, guest lecture by Alvaro Maria Cabrera Berobide (MBZUAI masters student working on the HPP).
 - **Feb 13** - Lab 6: Using the HPP Trusted Research Environment. NOTE: The demo environment is only available between February 12-15.  **(Lab guide)** [Registering Pheno TRE demo environment.pdf](https://github.com/user-attachments/files/18764816/Registering.Pheno.TRE.env.pdf)
-
+- [Further instructions for lab](https://mbzuaiac-my.sharepoint.com/:w:/g/personal/alvaro_berobide_mbzuai_ac_ae/EVPKMjvkZ8dCgOSkrDoPhpgBktX9bl7UdqzJzM_rb4EKNA?e=lxmGAn)
 #### Required reading:
 - **(HPP data catalogue)** [https://humanphenotypeproject.org/data-access](https://humanphenotypeproject.org/data-access)
 - **(HPP knowledge base)** [https://knowledgebase.pheno.ai/](https://knowledgebase.pheno.ai/)
