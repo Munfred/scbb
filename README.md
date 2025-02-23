@@ -164,6 +164,11 @@ Chapter 5 (DNA and Chromossomes), and Chapter 8 (Control of Gene Expression)
 
 #### Required reading:
 - **(YouTube Sanbomics Channel tutorial)** [Python single cell DE analysis with Scanpy and PyDEseq2](https://www.youtube.com/watch?v=Ee0PQUwVH8Q)
+- **(Twitter Thread)** [Lior Pachter on Seurat and Scanpy differences for single cell analysis](https://x.com/lpachter/status/1776280345098494025)
+
+#### Recommended reading:
+- **(Cell Press paper on memento)** [Method of moments framework for differential expression analysis of single-cell RNA sequencing data](https://www.cell.com/cell/fulltext/S0092-8674(24)01144-9) 
+- **(BiorXiv preprint)** [The impact of package selection and versioning on single-cell RNA-seq analysis](https://www.biorxiv.org/content/10.1101/2024.04.04.588111v2)
 
 
 ### Week 9: Single cell RNA sequencing data analysis workflows 
