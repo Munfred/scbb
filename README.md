@@ -158,56 +158,52 @@ Chapter 5 (DNA and Chromossomes), and Chapter 8 (Control of Gene Expression)
 - **Feb 20** - [Lab 7 activities](https://docs.google.com/document/d/e/2PACX-1vS0AocrnK113OGXEEOHH_RcLC5vm4FTBPpWkGfQl5nuNhxjZfUZPXHjnySSXMcH6VOkSslH2NkXhnND/pub): scRNAseq pre-processing pipelines: aligners and pseudoaligners
 - 
 ### Week 8: Single cell RNA sequencing data analysis workflows with scverse 
-- **Feb 24** - Lecture 8.1: Single cell omics foundation models, scvi-tools, creating new probabilistic models for single cell omics data 
+- **Feb 24** - Lecture 8.1: Practical biological analysis tips
 - **Feb 26** - Lecture 8.2: The scverse ecosystem of single cell analysis tools 
-- **Feb 27** - Lab 8: Single cell analysis with scverse  
-- Midterm project proposals discussion this week. Midterm project presentations (10 min per group) on Apr 3. 
+- **Feb 27** - Lab 8: Reproducing the analysis of a published paper   
+
 
 ### Week 9: Single cell RNA sequencing data analysis workflows 
 - **Mar 3** - Lecture 9.1: Plotting and visualization tools 
 - **Mar 5** - Lecture 9.2: Biological interpretation tools, gene set enrichment analysis, pathway analysis  
 - **Mar 6** - Lab 9: Reproducing the analysis of a published paper  
-- 
+ 
 
-### Week 10: Single cell omics analysis workflows 
+### Week 10: Guest lecture by Greg Gibson & Spatial Transcriptomics 
 Note: on March 10 prof. [Greg Gibson](https://scholar.google.com/citations?user=e4_ZXcwAAAAJ&hl=en) from Georgia Tech will give a lecture in our class.
 - **Mar 10** - Lecture 10.1: Guest Lecture by Greg Gibson
-- **Mar 12** - Lecture 10.2: Biological data interpretation, searching the literature, tools that support iterative analysis 
-- **Mar 13** - Lab 10: Single cell multi-omics analysis practice
-- Midterm project proposals discussion this week. Midterm project presentations (10 min) on Apr 3.  
+- **Mar 12** - Lecture 10.2: Spatial transcriptomics gueset lecture by Wouter-Michiel Vierdag, scverse core team
+- **Mar 13** - Lab 10: Spatial transcriptomics analysis practice
+  
 
-### Week 11: Spatial Transcriptomics  
-- **Mar 17** - Lecture 11.1: Introduction to spatial transcriptomics 
-- **Mar 19** - Lecture 11.2: Analysis tools for spatial transcriptomics 
-- **Mar 20** - Lab 11: Spatial transcriptomics in practice
-- Midterm project proposals discussion this week. Midterm project presentations (10 min) on Apr 3. 
+### Week 11: Midterm project presentations & discussion
+- **Mar 17** - Lecture 11.1: Midterm project presentations
+- **Mar 19** - Lecture 11.2: Midterm project presentations
+- **Mar 20** - Lab 11: Midterm project presentations
+- Midterm project proposals discussion this week. 
 
 ### Spring Break: March 24-28
-
-### Week 12: Asking biological questions, introduction to final project 
-- **Mar 31** - Lecture 12.1: Asking biological questions: what can we answer with the data? 
-- **Apr 2** - Lecture 12.2: Choosing analysis questions, finding data that can answer it  
-- **Apr 3** - Lab 12: Midterm project presentations, discussions for final project: Choosing a biological system, data and analysis questions 
+### Eid Al Fitr Holiday: March 29-April 1
 
 
-### Week 13: Foundation models & benchmarking
+### Week 12: Foundation models & benchmarking
 - **Apr 7** - Lecture 13.1: Foundation models in single cell biology 
 - **Apr 9** - Lecture 13.2: Benchmarking methods: Open Problems in Single Cell Analysis 
-- **Apr 10** - Lab 13: Work on projects 
+- **Apr 10** - Lab 13: Work on final projects 
 
 
-### Week 14: Single cell biological analysis in practice
+### Week 13: Single cell biological analysis in practice
 - **Apr 14** - Lecture 14.1: Communicating analysis results – static plots and reports 
 - **Apr 16** - Lecture 14.2: Communicating analysis results – interactive plots and dashboards 
-- **Apr 17** - Lab 14: Preparing figures for presentations and report 
+- **Apr 17** - Lab 14: Work on final projects 
 
 
-### Week 15: Final project presentations and discussion 
+### Week 14: Final project presentations and discussion 
 - **Apr 21** - Lecture 15.1: Final project presentations 
 - **Apr 23** - Lecture 15.2: Final project presentations 
-- **Apr 24** - LAB: None. Open for individualized feedback on projects.
+- **Apr 24** - Lab 14: Work on final projects 
 
-### Week 16: Final project presentations and discussion 
+### Week 15: Final project presentations and discussion 
 - **Apr 28** - Lecture 16.1: Final project presentations 
 - **Apr 30** - Lecture 16.2: Final project presentations 
 
