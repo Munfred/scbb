@@ -159,8 +159,9 @@ Chapter 5 (DNA and Chromossomes), and Chapter 8 (Control of Gene Expression)
 - 
 ### Week 8: Single cell RNA sequencing data analysis workflows with scverse 
 - **Feb 24** - Lecture 8.1: Practical biological analysis tips
-- **Feb 26** - Lecture 8.2: The scverse ecosystem of single cell analysis tools 
+- **Feb 26** - Lecture 8.2: Data visualization
 - **Feb 27** - Lab 8: Reproducing the analysis of a published paper
+
 
 #### Required reading:
 - **(YouTube Sanbomics Channel tutorial)** [Python single cell DE analysis with Scanpy and PyDEseq2](https://www.youtube.com/watch?v=Ee0PQUwVH8Q)
@@ -169,6 +170,7 @@ Chapter 5 (DNA and Chromossomes), and Chapter 8 (Control of Gene Expression)
 #### Recommended reading:
 - **(Cell Press paper on memento)** [Method of moments framework for differential expression analysis of single-cell RNA sequencing data](https://www.cell.com/cell/fulltext/S0092-8674(24)01144-9) 
 - **(BiorXiv preprint)** [The impact of package selection and versioning on single-cell RNA-seq analysis](https://www.biorxiv.org/content/10.1101/2024.04.04.588111v2)
+- - **(Youtube Videos)** [Caltech short Lectures from Santiago Lombeyda on visualizing data](https://www.youtube.com/watch?v=P8E0bl0fnyY)
 
 
 ### Week 9: Single cell RNA sequencing data analysis workflows 
