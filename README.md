@@ -153,8 +153,8 @@ Chapter 5 (DNA and Chromossomes), and Chapter 8 (Control of Gene Expression)
   
 ### Week 7: Fundamental tasks and tools in single cell RNA sequencing data analysis  
 **Note:** This week [Valentine Svensson](https://nxn.se/) will give a lecture on differential expression on February 19 and prof. [Natasa Przulj](https://mbzuai.ac.ae/study/faculty/natasa-przulj/) will give a lecture on Feb 17. 
-- **Feb 17** - [Lecture 7.1 slide ](https://github.com/user-attachments/files/18850180/MBZUAI.Comp.Bio.Students.Feb.13.2025.pdf) Guest lecture by prof. Natasa Przulj on biological networks
-- **Feb 19** - Lecture 7.2: Guest lecture by Valentine Svensson on differential expression.
+- **Feb 17** - [Lecture 7.1 slides](https://github.com/user-attachments/files/18850180/MBZUAI.Comp.Bio.Students.Feb.13.2025.pdf) Guest lecture by prof. Natasa Przulj on biological networks
+- **Feb 19** - [Lecture 7.2 slides](https://github.com/user-attachments/files/18960270/250219.-.Differential.expression.pdf) Guest lecture by Valentine Svensson on differential expression.
 - **Feb 20** - [Lab 7 activities](https://docs.google.com/document/d/e/2PACX-1vS0AocrnK113OGXEEOHH_RcLC5vm4FTBPpWkGfQl5nuNhxjZfUZPXHjnySSXMcH6VOkSslH2NkXhnND/pub): scRNAseq pre-processing pipelines: aligners and pseudoaligners
 - 
 ### Week 8: Single cell RNA sequencing data analysis workflows with scverse 
