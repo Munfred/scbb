@@ -173,8 +173,8 @@ Chapter 5 (DNA and Chromossomes), and Chapter 8 (Control of Gene Expression)
 
 
 ### Week 9: Single cell RNA sequencing data analysis workflows 
-- **Mar 3** - Lecture 9.1: Plotting and visualization tools 
-- **Mar 5** - Lecture 9.2: Biological interpretation tools, gene set enrichment analysis, pathway analysis  
+- **Mar 3** - Lecture 9.1: Open science and peer review - open peer review of project proposals 
+- **Mar 5** - Lecture 9.2: Open science and peer review (with guest lecture by Aziz Khan) - open peer review of project proposals  
 - **Mar 6** - Lab 9: Reproducing the analysis of a published paper  
  
 
