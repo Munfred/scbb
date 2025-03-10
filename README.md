@@ -39,6 +39,8 @@ The evaluation for this course will be comprised of:
 - (15%) One midterm project to be done in groups of 2-4 people, to be presented on April 3
 - (30%) One final project to be done in groups of 2-4 people (may be the same group as the midterm project, may expand on the same topic). To be presented on the weeks of April 21-30.
 
+### [Midterm & Final project paper writing guidelines](https://docs.google.com/document/d/e/2PACX-1vRBBA4fd4UuGEskrSdr-FQRhXvQ8LSeSo_x1wPOGsAhSea4JcTVRcO9VCumMS0QZ7FMTk04_AS-KJlV/pub?embedded=true)
+
 ## Course schedule
 The weekly course schedule is below. Please note that this is the first time this course is being taught, and there might be adjustements to the schedule, content and activities depending on course pace and opportunity to host guest speakers for some lectures.
 
