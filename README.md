@@ -196,25 +196,29 @@ Note: on March 10 prof. [Greg Gibson](https://scholar.google.com/citations?user=
 ### Spring Break: March 24-28
 ### Eid Al Fitr Holiday: March 29-April 1
 
-
 ### Week 12: Foundation models & benchmarking
-- **Apr 7** - Lecture 13.1: Foundation models in single cell biology 
-- **Apr 9** - Lecture 13.2: Benchmarking methods: Open Problems in Single Cell Analysis 
+- **Apr 7** - Lecture 12.1: Guest Lecture by prof. Aziz Khan on computational reproducibility and project organization
+
+
+
+### Week 13: Foundation models & benchmarking
+- **Apr 7** - Lecture 13.1: Discussion on Midterm submissions and Guest Lecture by Aziz Khan on data visualization 
+- **Apr 9** - Lecture 13.2: Guest Lecture by Tala from NYUAD on Malaria single cell study 
 - **Apr 10** - Lab 13: Work on final projects 
 
 
-### Week 13: Single cell biological analysis in practice
-- **Apr 14** - Lecture 14.1: Communicating analysis results – static plots and reports 
-- **Apr 16** - Lecture 14.2: Communicating analysis results – interactive plots and dashboards 
+### Week 14: Single cell biological analysis in practice
+- **Apr 14** - Lecture 14.1: Foundation models in single cell biology 
+- **Apr 16** - Lecture 14.2: Benchmarking methods: Open Problems in Single Cell Analysis  
 - **Apr 17** - Lab 14: Work on final projects 
 
 
-### Week 14: Final project presentations and discussion 
+### Week 15: Final project presentations and discussion 
 - **Apr 21** - Lecture 15.1: Final project presentations 
 - **Apr 23** - Lecture 15.2: Final project presentations 
 - **Apr 24** - Lab 14: Work on final projects 
 
-### Week 15: Final project presentations and discussion 
+### Week 1: Final project presentations and discussion 
 - **Apr 28** - Lecture 16.1: Final project presentations 
 - **Apr 30** - Lecture 16.2: Final project presentations 
 
