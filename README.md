@@ -200,16 +200,15 @@ Note: on March 10 prof. [Greg Gibson](https://scholar.google.com/citations?user=
 - **Apr 7** - Lecture 12.1: Guest Lecture by prof. Aziz Khan on computational reproducibility and project organization
 
 
-
 ### Week 13: Foundation models & benchmarking
 - **Apr 7** - Lecture 13.1: Discussion on Midterm submissions and Guest Lecture by Aziz Khan on data visualization 
-- **Apr 9** - Lecture 13.2: Guest Lecture by Tala from NYUAD on Malaria single cell study 
+- **Apr 9** - [Lecture 13.2 Slides]: Guest Lecture by Tala from NYUAD on Malaria single cell study (https://github.com/user-attachments/files/19742558/MBZUAI_GuestLecture_Shahin_09042025.pdf)
 - **Apr 10** - Lab 13: Work on final projects 
 
 
 ### Week 14: Single cell biological analysis in practice
-- **Apr 14** - Lecture 14.1: Foundation models in single cell biology 
-- **Apr 16** - Lecture 14.2: Benchmarking methods: Open Problems in Single Cell Analysis  
+- **Apr 14** - Lecture 14.1: Final projects feedback & discussion 
+- **Apr 16** - Lecture 14.2: Foundation models in biology & benchmarking: Open Problems in Single Cell Analysis  
 - **Apr 17** - Lab 14: Work on final projects 
 
 
