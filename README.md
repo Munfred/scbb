@@ -197,7 +197,7 @@ Note: on March 10 prof. [Greg Gibson](https://scholar.google.com/citations?user=
 ### Eid Al Fitr Holiday: March 29-April 1
 
 ### Week 12: Foundation models & benchmarking
-- **Apr 7** - Lecture 12.1: Guest Lecture by prof. Aziz Khan on computational reproducibility and project organization
+- **Apr 7** - Lecture 12.1: Guest Lecture by prof. Aziz Khan on [On the art of reprodicible research.pdf](https://github.com/user-attachments/files/19908113/On.the.art.of.reprodicible.research.pdf)
 
 
 ### Week 13: Foundation models & benchmarking
